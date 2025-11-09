@@ -5,6 +5,7 @@
 [![Data Source](https://img.shields.io/badge/Data-Kaggle-20BEFF?style=flat&logo=kaggle)](https://www.kaggle.com)
 [![SQL](https://img.shields.io/badge/SQL-Server-CC2927?style=flat&logo=microsoft-sql-server)](https://www.microsoft.com/sql-server)
 [![Excel](https://img.shields.io/badge/Excel-Analysis-217346?style=flat&logo=microsoft-excel)](https://www.microsoft.com/excel)
+
 This project analyzes the historical stock performance of The Coca-Cola Company (KO) using SQL. The dataset spans from 1962 to 2025, providing a comprehensive view of one of the world's most iconic blue-chip stocks. Through 15 business intelligence queries, this analysis explores price volatility, trading volume patterns, yearly trends, and market performance metrics.
 
 ## Dataset Information
